@@ -43,25 +43,25 @@ MCP acts as a bridge between AI applications and external capabilities, allowing
 - Server-side validation and authentication
 - Isolated execution environment
 
-### 🚀 **Extensibility**
+### **Extensibility**
 
 - Easy to add new tools and capabilities
 - No need to modify the AI application
 - Plug-and-play architecture
 
-### 🔄 **Flexibility**
+### **Flexibility**
 
 - Multiple transport methods (STDIO, SSE, HTTP)
 - Works with various programming languages
 - Supports both local and remote servers
 
-### 📊 **Tool Discovery**
+### **Tool Discovery**
 
 - Dynamic tool registration
 - Automatic schema validation
 - Rich metadata and descriptions
 
-### 🎯 **Separation of Concerns**
+### **Separation of Concerns**
 
 - AI logic separate from tool implementation
 - Easy to maintain and update tools independently
