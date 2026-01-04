@@ -31,13 +31,13 @@ MCP acts as a bridge between AI applications and external capabilities, allowing
 
 ## Benefits
 
-### 🔌 **Standardized Interface**
+### **Standardized Interface**
 
 - Single protocol for connecting to diverse tools and data sources
 - Consistent API regardless of the underlying implementation
 - Reduces integration complexity
 
-### 🔒 **Security**
+### **Security**
 
 - Controlled access to external resources
 - Server-side validation and authentication
